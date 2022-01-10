@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 >[](https://komarev.com/ghpvc/?username=annapinchuk&color=grey)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=annapinchuk&show_icons=true&theme=vue-dark&line_height=20)](https://github.com/annapinchuk/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annapinchuk&layout=compact&theme=vue-dark)](https://github.com/annapinchuk/github-readme-stats)
