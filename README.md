@@ -1,39 +1,34 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!%20👋;%20I'm%20Orel%20Zamler;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!%20👋;%20I'm%20Anna%20Pinchuk;%20Cyber%20Researcher%20and%20Security%20Expert;&center=true&size=30">
   </a>
 </h1>
 
 <!-- Connect with Me -->
 <h5 align="left">
-  <code><a href="https://www.linkedin.com/in/orel-zamler-887220269/" title="Linkedin Profile"><img width="22" src="images/linkedin.svg"> <span style="font-size: 24px;">Linkedin</span> </a></code>
+  <code><a href="https://www.linkedin.com/in/annapinchuk/" title="Linkedin Profile"><img width="22" src="images/linkedin.svg"> <span style="font-size: 24px;">Linkedin</span> </a></code>
 </h5>
 
-
 <!-- About Me -->
-I'm a passionate developer who loves to create and innovate. I enjoy building applications that solve real-world problems and make a positive impact. 😄
+I'm a cybersecurity researcher specializing in industrial systems security. My focus is on discovering vulnerabilities, implementing defenses, and conducting cutting-edge research in OT and IoT environments. 🔐
 
-- 🌱 Currently learning and experimenting with game creation applications 🎮
-- 💡 Always excited to explore new technologies and frameworks 🚀
-- 🎓 Computer Science Third-year student at Ariel University, Israel 📚
-- ✨ Enjoy collaborating and learning from the community 🌟
-<br/><br/>
-
+- 🌱 Currently exploring advanced techniques in eBPF and network security 🚀
+- 💡 Enthusiastic about breaking new ground in offensive and defensive cyber strategies 🛡️
+- 🎓 Graduated with a B.Sc. in Computer Science and Mathematics, specializing in Cyber Studies from Ariel University, Israel 🎓
+- ✨ Passionate about mentoring, knowledge sharing, and community collaboration 🌟
 
 <!-- Skills -->
-## 🌎 Languages 
+## 🌎 Languages & Technologies 
 
-![Node.js](https://img.shields.io/badge/Node.js-JavaScript-black?style=flat&logo=node.js) 
 ![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=python) 
-![Java Badge](https://img.shields.io/badge/-Java-black?style=flat&logo=java) 
 ![C Badge](https://img.shields.io/badge/-C-black?style=flat) 
 ![C++ Badge](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B) 
-<!-- ![Racket Badge](https://img.shields.io/badge/-Racket-black?style=flat) -->
+![eBPF Badge](https://img.shields.io/badge/-eBPF-black?style=flat) 
+![Linux Badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
 
 <div align=left>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orelz890&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annapinchuk&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
 </div>
 <br/>
-
