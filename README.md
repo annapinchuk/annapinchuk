@@ -10,7 +10,7 @@
 </h5>
 
 <!-- About Me -->
-I'm a cybersecurity researcher specializing in industrial systems security. My focus is on discovering vulnerabilities, implementing defenses, and conducting cutting-edge research in OT and IoT environments. 🔐
+I'm a cybersecurity researcher specializing in industrial systems security. My focus is on discovering vulnerabilities, implementing defenses, and conducting cutting-edge research in IT, OT and IoT environments. 🔐
 
 - 🌱 Currently exploring advanced techniques in eBPF and network security 🚀
 - 💡 Enthusiastic about breaking new ground in offensive and defensive cyber strategies 🛡️
