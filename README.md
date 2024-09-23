@@ -37,8 +37,6 @@ I'm a cybersecurity researcher specializing in industrial systems security. My f
 <br/>
 
 ## 🛠️ Other Tools
-
-![Visual Studio Code Badge](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code) 
 ![AWS Badge](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws) 
 ![Wireshark Badge](https://img.shields.io/badge/-Wireshark-black?style=flat&logo=wireshark) 
 ![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=git) 
