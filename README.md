@@ -68,7 +68,7 @@ I'm a cybersecurity researcher specializing in industrial systems security. My f
   <a align="left" href="https://github.com/annapinchuk/ToReach" title="ToReach"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=annapinchuk&repo=ToReach&theme=react&border_color=61dafb&border_radius=10" width="350">
   </a>
   
-  <a align="left" href="https://github.com/annapinchuk/ebpf" title="Syscall Monitor - eBPF"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=annapinchuk&repo=ebpf&theme=react&border_color=61dafb&border_radius=10" width="350" >
+  <a align="left" href="https://github.com/annapinchuk/Syscall-Monitor--eBPF" title="Syscall Monitor - eBPF"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=annapinchuk&repo=Syscall-Monitor--eBPF&theme=react&border_color=61dafb&border_radius=10" width="350" >
   </a>
 </div>
 
