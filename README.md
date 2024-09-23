@@ -24,7 +24,14 @@ I'm a cybersecurity researcher specializing in industrial systems security. My f
 ![C Badge](https://img.shields.io/badge/-C-black?style=flat) 
 ![C++ Badge](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B) 
 ![eBPF Badge](https://img.shields.io/badge/-eBPF-black?style=flat) 
-![Linux Badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+![Linux Badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) 
+![Windows Badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows) 
+![Java Badge](https://img.shields.io/badge/Java-black?style=flat&logo=java) 
+![AWS Badge](https://img.shields.io/badge/AWS-black?style=flat&logo=amazon-aws) 
+![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning-black?style=flat&logo=machine-learning) 
+![Cryptography Badge](https://img.shields.io/badge/Cryptography-black?style=flat&logo=cryptography) 
+![Wireshark Badge](https://img.shields.io/badge/Wireshark-black?style=flat&logo=wireshark) 
+![Networking Badge](https://img.shields.io/badge/Networking-black?style=flat&logo=network)
 
 <div align=left>
     <a href="https://github.com/anuraghazra/github-readme-stats">
