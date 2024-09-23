@@ -75,10 +75,10 @@ I'm a cybersecurity researcher specializing in industrial systems security. My f
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/annapinchuk/FIDO2_webapp" title="Industrial Cybersecurity Research"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=annapinchuk&repo=industrial-cybersecurity-research&theme=react&border_color=61dafb&border_radius=10" width="350">
+  <a align="left" href="https://github.com/annapinchuk/FIDO2_webapp" title="FIDO2 Web Application"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=annapinchuk&repo=FIDO2_webapp&theme=react&border_color=61dafb&border_radius=10" width="350">
   </a>
   
-  <a align="left" href="https://github.com/annapinchuk/RC4" title="Security Awareness Podcast"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=annapinchuk&repo=security-awareness-podcast&theme=react&border_color=61dafb&border_radius=10" width="350" >
+  <a align="left" href="https://github.com/annapinchuk/RC4" title="RC4 Encryption and Brute-Force Attack"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=annapinchuk&repo=RC4&theme=react&border_color=61dafb&border_radius=10" width="350" >
   </a>
 </div>
 
